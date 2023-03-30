@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tonnes of uranium gone missing from Libya site, UN says",
+    "description": "UN inspectors are trying to locate around two and a half tonnes of uranium ore.",
+    "url": "http://www.bbc.co.uk/news/world-africa-64972945",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2012/production/_129001280_801f717ab9c0a61d9321094fa06291bca1e506110_303_5808_32675808x3267.jpg",
+    "publishedAt": "2023-03-16T04:37:16.1575141Z",
+    "content": "Two and a half tonnes of uranium have gone missing from a site in Libya, the UN's nuclear watchdog has said.\r\nThe International Atomic Energy Agency (IAEA) sounded the alarm after a visit by its insp… [+945 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Chat GPT4: Is the world prepared for the coming AI storm?",
+    "description": "Artificial intelligence will radically change our lives, for better and worse. Experts are worried.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64967627",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C4E/production/_128987867_gettyimages-1472810844.jpg",
+    "publishedAt": "2023-03-16T04:22:18.9705318Z",
+    "content": "Artificial intelligence has the awesome power to change the way we live our lives, in both good and dangerous ways. Experts have little confidence that those in power are prepared for what's coming. … [+8273 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Football fans throw chairs at Naples riot police",
+    "description": "Police respond with tear gas as Eintracht Frankfurt fans charge through the streets.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64970977",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CCAF/production/_128999325_chairnumber21.jpg",
+    "publishedAt": "2023-03-16T03:22:22.3295791Z",
+    "content": "Eintracht Frankfurt fans have clashed with police in Italy ahead of their club's Champions League last-16 match against Napoli.\r\nFootage showed chairs being hurled at riot police, who had been respon… [+236 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nasa reveals new spacesuit for moon landing",
+    "description": "This modernised suit will make exploration easier for astronauts during upcoming missions.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64958875",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11BFB/production/_128999627_p0f905dh.jpg",
+    "publishedAt": "2023-03-16T03:22:21.8297025Z",
+    "content": "Pints, power and parents: Budget info in 64 seconds. Video, 00:01:04Pints, power and parents: Budget info in 64 seconds"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US threatens TikTok ban if app is not sold - report",
+    "description": "TikTok, owed by Chinese firm ByteDance, says it has been contacted about a change in ownership.",
+    "url": "http://www.bbc.co.uk/news/technology-64973156",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C41/production/_127996727_gettyimages-1438609724.jpg",
+    "publishedAt": "2023-03-16T03:22:21.1892372Z",
+    "content": "The US government says TikTok should be sold or else face a possible ban in the country, according to reports.\r\nThe video-sharing app, owned by Chinese company ByteDance, is accused of posing a natio… [+2439 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea fires long range missile ahead of Japan-South Korea talks",
+    "description": "The ICBM marks Pyongyang's fourth round of launches in a week as South Korea and Japan leaders meet.",
+    "url": "http://www.bbc.co.uk/news/world-asia-64972944",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C00/production/_129000867_295d9c5e11282629f1f6435246bd86930a0a9c040_99_5122_28815122x2881.jpg",
+    "publishedAt": "2023-03-16T03:22:20.0801381Z",
+    "content": "North Korea has fired an intercontinental ballistic missile (ICBM) just hours before the leaders of South Korea and Japan are due to meet for a landmark summit.\r\nBoth Japanese and South Korean offici… [+1672 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Credit Suisse to borrow up to $54bn from Swiss central bank",
+    "description": "A slump in the troubled lender's shares has intensified fears about a broader bank crisis.",
+    "url": "http://www.bbc.co.uk/news/business-64964881",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F18F/production/_128993816_whatsubject.jpg",
+    "publishedAt": "2023-03-16T03:22:18.6117537Z",
+    "content": "Credit Suisse said on Thursday that it will borrow up to 50bn francs ($54bn; £44.5bn) from the Swiss central bank to shore up its finances.\r\nThe lender said it was \"taking decisive action to pre-empt… [+4441 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Big Ugly Diamond' discovered by Arkansas state park visitor",
+    "description": "It's large, but not as large as other diamonds visitors have found in this unique crater",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64972005",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CC/production/_129000340_dsc_0721web.jpg",
+    "publishedAt": "2023-03-16T00:37:18.8500049Z",
+    "content": "A diamond discovered at an Arkansas state park has been dubbed \"Bud\" by the man who discovered it.\r\n\"That's for 'Big, Ugly Diamond,'\" said David Anderson, a lucky tourist from Murfreesboro, Tennessee… [+2266 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "San Francisco reparations plan proposes $5m for black residents",
+    "description": "The city is also considering homes in San Francisco for $1 per family under the reparations plan.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64965277",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1519D/production/_128992468_gettyimages-1243475910.jpg",
+    "publishedAt": "2023-03-15T17:37:24.2204358Z",
+    "content": "San Francisco could become the first major US city to fund reparations, under a plan that would award $5m (£4m) to each eligible black resident.\r\nA city-appointed panel also suggests guaranteed annua… [+2905 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US drone downing: Black Sea conflict inevitable until Russia leaves - Ukraine minister",
+    "description": "A US surveillance drone plunged into the Black Sea after meeting Russian jets on Tuesday.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64961958",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141AC/production/_128984328_mediaitem128984327.jpg",
+    "publishedAt": "2023-03-15T14:22:26.3609712Z",
+    "content": "Media caption, US drone crash inevitable, Ukraine minister tells BBC\r\nIncidents such as the downing of a US drone over the Black Sea are inevitable until Russia leaves Crimea, Ukraine's foreign minis… [+3091 chars]"
+    }
+    ]
+    }
